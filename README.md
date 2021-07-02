@@ -1,2 +1,3 @@
 # Student-management-system
-its about student management sytem
+its about student management system
+
